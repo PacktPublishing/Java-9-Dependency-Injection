@@ -1,36 +1,27 @@
-# Network Programming with Rust
-This is the code repository for [Network Programming with Rust](https://www.packtpub.com/application-development/network-programming-rust?utm_source=github&utm_medium=repository&utm_campaign=9781788624893), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Mastering Java 9Mastering Java 9
+This is the code repository for [Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Rust is low-level enough to provide fine-grained control over memory while providing safety through compile-time validation. This makes it uniquely suitable for writing low-level networking applications.
+Java 9 and its new features add to the richness of the language, one of the languages most used by developers to build robust software applications. Java 9 comes with a special emphasis on modularity with its integration with Jigsaw. This would be your one-stop guide to mastering the language.
 
-This book is divided into three main parts that will take you on an exciting journey: building a fully functional web server. The book starts with a solid introduction to Rust and essential networking concepts. This will lay a foundation for, and set the tone of, the entire book. It takes an in-depth look at using Rust for networking software. Starting with client-server networking using sockets to IPv4/v6, DNS, TCP, UDP, you will also learn about serializing and deserializing data using serde. The book shows how to communicate with REST servers over HTTP and implement asynchronous network programming using the Tokio stack. Given the importance of security for modern systems, you will see how Rust supports common primitives such as TLS and public key cryptography.
+You'll be provided with an overview and explanation of the new features introduced in Java 9 and the importance of the new APIs and enhancements. Some of the new features of Java 9 are ground-breaking and if you are an experienced programmer, you will be able to make your enterprise application leaner by learning these new features. You'll be provided with practical guidance in applying the newly acquired knowledge in regards to Java 9 and further information on future developments of the Java platform. This book will improve your productivity, making your application faster. By learning the best practices in Java, you'll become the "go-to" person in your organization.
 
-After reading this book, you will be more than confident enough to use Rust to build effective networking software.
+By the end of the book, you'll not only know the important concepts of Java 9, but you'll also have a nuanced understanding of the important aspects of programming with this great language.
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-There is no code in Chapter 1
 
 The code will look like the following:
 ```
-[package]
-name = "hello-rust"
-version = "0.1.0"
-authors = ["Foo Bar <foo.bar@foobar.com>"]
+module javaIntroduction {
+}
 ```
 
-They are either already familiar with Rust or are planning to start learning the language
-They have a commercial background in software engineering using other programming languages and are aware about the tradeoffs in developing software using different programming languages
-They have a basic familiarity with networking concepts
-They can appreciate why distributed systems are important in modern computing
+This book is for Java developers who would like to understand how to implement Dependency Injection in their applications. Prior knowledge about the Spring and Guice frameworks and Java programming is assumed.
 
 ## Related Products
-* [Rust Blueprints](https://www.packtpub.com/application-development/rust-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781788473835)
+* [Mastering Microservices with Java 9 - Second Edition](https://www.packtpub.com/application-development/mastering-microservices-java-9-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787281448)
 
-* [Rust High Performance](https://www.packtpub.com/application-development/rust-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781788399487)
+* [Java: High-Performance Apps with Java 9](https://www.packtpub.com/application-development/java-high-performance-apps-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781789130515)
 
-* [RUST Design Patterns and Best Practices](https://www.packtpub.com/application-development/rust-design-patterns-and-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781788833370)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+* [Java 9: Building Robust Modular Applications](https://www.packtpub.com/application-development/java-9-building-robust-modular-applications?utm_source=github&utm_medium=repository&utm_campaign=9781788832823)
