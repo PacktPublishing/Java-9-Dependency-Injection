@@ -1,5 +1,5 @@
-# Mastering Java 9Mastering Java 9
-This is the code repository for [Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Java 9 Dependency InjectionJava 9 Dependency Injection
+This is the code repository for [Java 9 Dependency Injection](https://www.packtpub.com/application-development/java-9-dependency-injection?utm_source=github&utm_medium=repository&utm_campaign=9781788296250), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Java 9 and its new features add to the richness of the language, one of the languages most used by developers to build robust software applications. Java 9 comes with a special emphasis on modularity with its integration with Jigsaw. This would be your one-stop guide to mastering the language.
 
